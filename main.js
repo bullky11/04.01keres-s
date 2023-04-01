@@ -1,0 +1,42 @@
+export const KUTYAK = [
+    {
+      nev: "Dézi",
+      fajta: "keverék",
+      lab: 4,
+      marmagassag: 52,
+      nem: "non-binary",
+      kor: 13,
+    },
+    {
+      nev: "KIRA",
+      fajta: "yorki",
+      lab: 4,
+      marmagassag: 30,
+      nem: "non-binary",
+      kor: 5,
+    },
+    {
+      nev: "Bolhás",
+      fajta: "tacskó",
+      lab: 2,
+      marmagassag: 22,
+      nem: "kan",
+      kor: 11,
+    },
+    {
+      nev: "Lejla",
+      fajta: "Németjuhász",
+      lab: 4,
+      marmagassag: 62,
+      nem: "Nőstény",
+      kor: 12,
+    },
+    {
+        nev: "ddd",
+        fajta: "Németjuhász",
+        lab: 4,
+        marmagassag: 62,
+        nem: "Nőstény",
+        kor: 12,
+      },
+  ];
